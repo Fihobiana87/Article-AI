@@ -1,0 +1,219 @@
+// GÉNÉRER LIVRABLE MARKDOWN — reproduit EXACTEMENT la structure du fichier de référence
+// (Intégration ACF + Yoast). Un fichier .md de ce type est produit à chaque rédaction.
+const data = $input.first().json;
+const acf = data.acf_wordpress || {};
+const blocs = Array.isArray(data.blocs) ? data.blocs : [];
+const meta = data.metadata || {};
+const rap = data.rapport_mots_cles || {};
+const audit = data.seo_audit || {};
+const inputs = $('Normaliser Inputs').first().json;
+const palette = data.palette || {};
+const profil = (acf.meta_pipeline && acf.meta_pipeline) || {};
+const images = data.image_prompts || [];
+const hero = images.find(p => (p.role || '') === 'featured') || images[0] || {};
+const h1 = acf.article_titre || inputs.sujet;
+const slug = acf.url_blog || meta.slug || '';
+const urlArticle = (acf.meta_pipeline && acf.meta_pipeline.url_article) || `/article/${slug}/`;
+const dateFr = new Date().toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
+const yoast = acf.seo_yoast || {};
+
+const L = [];
+const p = (s) => L.push(s);
+
+p(`# Intégration ACF + Yoast — ${inputs.sujet}`);
+p(`## ${h1}`);
+p('');
+p(`> **Pipeline** : Générateur Article Blog SEO IA (Claude) — Sortie ACF WordPress`);
+p(`> **Date** : ${dateFr} · **Sous-type** : ${data.sous_type || 'GUIDE'} (SEO 2026 AEO/GEO/SGE) · **Cluster** : ${inputs.categorie}`);
+p(`> Couleur principale : \`${palette.couleur_marque || ''}\`. URL article : \`${urlArticle}\``);
+if (rap.justification_data_driven) {
+  p('>');
+  p(`> **📊 Justification data-driven** : ${rap.justification_data_driven}`);
+}
+p('');
+p('---');
+p('');
+
+// 1 — Image principale
+p('## 1 — Image principale (`article_image`)');
+p('');
+p('| Champ | Valeur |');
+p('|---|---|');
+p(`| Format | **WebP**, ${hero.aspect_ratio === '16:9' ? '1024×572 px' : '1200×630 px'} |`);
+p(`| Alt | \`${(hero.alt_text || '').replace(/\|/g, '\\|')}\` |`);
+p(`| Nom de fichier | \`${hero.filename || ''}\` |`);
+p(`| Title | \`${(hero.title || '').replace(/\|/g, '\\|')}\` |`);
+p('');
+p('---');
+p('');
+
+// 2 — Auteur
+p('## 2 — Auteur');
+p('');
+p('| Champ ACF | Valeur |');
+p('|---|---|');
+p(`| \`article_auteur_nom\` | \`${inputs.auteur || 'Rédaction'}\` |`);
+p('| `article_auteur_image` | Portrait 400×400 px (à fournir) |');
+if (meta.auteur_mention) p(`| **Mention spéciale** | ${meta.auteur_mention} |`);
+p('');
+p('---');
+p('');
+
+// 3 — Titre principal
+p('## 3 — Titre principal (`article_titre`)');
+p('');
+p('```');
+p(h1);
+p('```');
+p('');
+p('---');
+p('');
+
+// 4 — Slug / URL
+p('## 4 — Slug / URL (`url_blog`)');
+p('');
+p('```');
+p(slug);
+p('```');
+p('');
+p(`URL finale : \`${urlArticle}\``);
+p('');
+p('---');
+p('');
+
+// TITRES H2 PAR BLOC ACF
+p('## 🗂️ TITRES H2 PAR BLOC ACF');
+p('');
+p('| Bloc | Champ titre | H2 |');
+p('|---|---|---|');
+blocs.forEach((b, i) => {
+  const n = i + 1;
+  const champ = n >= 2 ? `\`article_titre_${n}\`` : '(H2 inclus dans HTML)';
+  const h2txt = (b.titre || '').replace(/\|/g, '\\|') || (n === 1 ? '(intro + answer capsule + 1er H2)' : '');
+  p(`| **Bloc ${n}** | ${champ} | ${h2txt} |`);
+});
+p('');
+p(`**Total : ${blocs.length} blocs ACF · SEO 2026 AEO/GEO.**`);
+p('');
+p('---');
+p('');
+
+// Blocs 1..N
+blocs.forEach((b, i) => {
+  const n = i + 1;
+  p(`## ${4 + n} — Bloc ${n} (\`article_paragraphe_${n}\`${n >= 2 ? ` + \`article_titre_${n}\`` : ''})`);
+  p('');
+  if (n >= 2 && b.titre) {
+    p(`### \`article_titre_${n}\``);
+    p('');
+    p('```');
+    p(b.titre);
+    p('```');
+    p('');
+    p(`### \`article_paragraphe_${n}\``);
+    p('');
+  }
+  p('```html');
+  p(b.html);
+  p('```');
+  p('');
+  p('---');
+  p('');
+});
+
+// Article à la une
+p('## Article à la une (`article_a_la_une`)');
+p('');
+p('| Champ | Valeur |');
+p('|---|---|');
+p(`| Booléen | ${acf.article_a_la_une ? '☑ **À cocher**' : '☐ Non'} |`);
+p('');
+p('---');
+p('');
+
+// Yoast SEO
+p('## Yoast SEO');
+p('');
+p('### Expression principale');
+p('```');
+p(yoast.focus_keyword || inputs.mot_cle);
+p('```');
+p('');
+p('### Titre SEO (`meta_title`)');
+p('```');
+p(yoast.meta_title || '');
+p('```');
+p(`(${(yoast.meta_title || '').length} caractères)`);
+p('');
+p('### Méta description (`meta_description`)');
+p('```');
+p(yoast.meta_description || '');
+p('```');
+p(`(${(yoast.meta_description || '').length} caractères)`);
+p('');
+p('### Slug');
+p('```');
+p(slug);
+p('```');
+p('');
+p('### Étiquettes (tags) recommandées');
+p('```');
+p((yoast.tags || []).join(', '));
+p('```');
+p('');
+if ((yoast.secondary_keywords || []).length) {
+  p('### Mots-clés secondaires ciblés');
+  p('');
+  p('| Mot-clé | Intention |');
+  p('|---|---|');
+  (rap.mots_cles_secondaires || []).slice(0, 20).forEach(k => {
+    if (typeof k === 'object') p(`| ${k.terme || ''} | ${k.intention || ''} |`);
+    else p(`| ${k} | — |`);
+  });
+  p('');
+}
+p('---');
+p('');
+
+// Bonus : prompts d'images
+p('## 🎨 Prompts d\'images (Nano Banana / Gemini 2.5 Flash Image)');
+p('');
+if (acf.art_direction && Object.keys(acf.art_direction).length) {
+  p('**Direction artistique commune :** `' + JSON.stringify(acf.art_direction) + '`');
+  p('');
+}
+images.forEach((im, i) => {
+  p(`### ${i + 1}. ${im.name} (${im.role}) — \`${im.filename}\``);
+  p(`- **Prompt** : ${im.prompt}`);
+  p(`- **Negative** : ${im.negative_prompt}`);
+  p(`- **Ratio** : ${im.aspect_ratio} · **Alt** : ${im.alt_text}`);
+  p('');
+});
+p('---');
+p('');
+
+// Maillage : articles déjà publiés les plus pertinents (accueil + sitemap), pour un vrai
+// maillage inter-articles au lieu d'une liste de pages au hasard.
+const articlesConnexes = Array.isArray(data.articles_connexes) ? data.articles_connexes : [];
+if (articlesConnexes.length) {
+  p('## 🔗 Articles connexes (maillage suggéré)');
+  p('');
+  articlesConnexes.forEach(a => p(`- [${a.titre}](${a.url})`));
+  p('');
+  p('---');
+  p('');
+}
+
+// Bonus : audit qualité
+p('## ✅ Audit qualité SEO');
+p('');
+p(`- **Score** : ${audit.score}/100 — statut **${audit.statut}**`);
+p(`- **Mots** : ${audit.mots} · **Temps de lecture** : ${audit.temps_lecture} · **Densité** : ${audit.densite_mot_cle}`);
+if ((audit.avertissements || []).length) {
+  p('- **Points à revoir** :');
+  audit.avertissements.forEach(a => p(`  - ${a}`));
+}
+p('');
+
+const livrable_md = L.join('\n');
+return [{ json: { ...data, livrable_md } }];
