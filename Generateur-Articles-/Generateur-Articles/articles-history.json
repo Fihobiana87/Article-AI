@@ -1,0 +1,5 @@
+{
+  "_description": "Mémoire des articles déjà générés. Le workflow lit ce fichier au début (pour éviter les doublons) et y ajoute chaque nouvel article à la fin. Ne pas renommer les clés. Éditable manuellement si besoin.",
+  "updated_at": "",
+  "articles": []
+}
