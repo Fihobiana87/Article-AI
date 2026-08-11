@@ -1,0 +1,590 @@
+{
+  "meta_pipeline": {
+    "pipeline": "Générateur Article Blog SEO IA (Claude) — Sortie ACF WordPress",
+    "genere_le": "2026-08-11T07:55:31.561Z",
+    "sous_type": "HOW-TO",
+    "cluster": "",
+    "couleur_marque": "#bfe3e3",
+    "palette": {
+      "couleur_marque": "#bfe3e3",
+      "couleur_marque_fonce": "#607272",
+      "couleur_marque_clair": "#f9fcfc",
+      "contraste_marque_fonce_sur_blanc": 5.06,
+      "source": "site"
+    },
+    "url_article": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/",
+    "nb_mots": 2170,
+    "nb_blocs": 7
+  },
+  "article_a_la_une": true,
+  "article_image": {
+    "format": "WebP",
+    "dimensions": "1024x572",
+    "alt": "Coureuse préparant sa reprise de course à pied en septembre après une coupure d'été, lacets de running au point de départ",
+    "nom_fichier": "reprise-course-a-pied-apres-coupure-septembre-og.webp",
+    "title": "Reprise de la course à pied après coupure : préparation progressive",
+    "caption": "Le moment du retour : préparation mentale et physique avant la première sortie de rentrée.",
+    "prompt_generation": "Professional editorial photograph of a female runner in her early 30s, wearing modern athletic wear (neutral colors with subtle teal-mint accents on the watch or armband), standing at the edge of a park trail at golden hour, early morning light. She is tying her running shoes, leaning forward slightly with focused expression, mid-motion. The background shows a tree-lined path with soft bokeh, natural daylight, warm and encouraging atmosphere. Ultra HD, photorealistic, natural lighting, no studio feel. The scene captures the exact moment of 'returning to running' – preparation, determination, realistic athlete experience. Shot with 35mm equivalent lens, shallow depth of field."
+  },
+  "auteur": {
+    "article_auteur_nom": "Rédaction",
+    "article_auteur_image": "Portrait 400×400 (à fournir)",
+    "article_auteur_mention": ""
+  },
+  "article_titre": "Reprise de la course à pied en septembre après une coupure d'été : le plan progressif sur 4 semaines",
+  "url_blog": "reprise-course-apres-coupure-plan-4-semaines",
+  "blocs": [
+    {
+      "bloc": 1,
+      "champ_titre": "article_titre_1",
+      "titre_h2": "Reprise de la course à pied après une coupure : la réponse en 4 semaines",
+      "id_ancre": "sec-1-reprise-de-la-course-a-pied-apres-une-co",
+      "champ_paragraphe": "article_paragraphe_1",
+      "html": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Pour une <strong>reprise course à pied après coupure</strong> réussie en septembre, le principe est simple : quatre semaines progressives, en partant de la marche-course et en terminant par une sortie longue et un peu d'intensité. Semaine 1 : marche-course fractionnée. Semaine 2 : course continue à allure conversationnelle. Semaine 3 : introduction d'une sortie plus longue. Semaine 4 : retour prudent d'un peu de rythme. Deux règles gouvernent tout le reste : ne jamais courir sur une douleur, et augmenter un seul paramètre à la fois (durée, fréquence ou intensité, jamais les trois ensemble).</p><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Ce plan concerne une coupure volontaire de l'été, sans douleur ni blessure en cours. Si l'arrêt fait suite à une entorse, une tendinopathie ou toute gêne mécanique, mieux vaut passer par un bilan avant de relacer, car la logique de reconstruction n'est pas la même que celle d'un simple désentraînement.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Trois profils, trois points de départ</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">La durée de l'arrêt change tout. Une coupure de deux à quatre semaines demande surtout de la prudence sur l'intensité. Une coupure de quatre à huit semaines impose de repasser par la marche-course dès le départ. Au-delà de huit semaines, ou en cas de reprise après blessure, le protocole doit être encore plus étalé, avec un accompagnement adapté si des douleurs réapparaissent.</p><ul style=\"margin:0 0 1.25rem;padding-left:1.5rem\"><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Coupure de 2 à 4 semaines</strong> : reprise directe en course continue courte, allure très souple les deux premières séances.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Coupure de 4 à 8 semaines</strong> : semaine 1 entièrement en marche-course, puis montée progressive du temps de course continue.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Coupure de plus de 8 semaines ou blessure</strong> : plan étalé sur plus de quatre semaines, avec un avis médical ou kiné si une douleur persiste, et un renvoi utile vers un article dédié à la <a style=\"color:#607272;text-decoration:underline\" href=\"https://willrun.fr/blog/reprendre-sport-apres-arret/\">reprise du sport après un arrêt</a>.</li></ul><div class=\"nk-callout nk-callout--note\" style=\"background:#eef2f7;border-left:4px solid #5b7a9d;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#2c3e50;font-size:16px;font-weight:500;line-height:1.7\"><strong>À noter :</strong> ce plan de quatre semaines s'adresse à une coupure d'été sans douleur en cours. Une reprise après blessure suit une autre logique, davantage centrée sur la tolérance tissulaire progressive que sur le seul volume hebdomadaire.</p></div>"
+    },
+    {
+      "bloc": 2,
+      "champ_titre": "article_titre_2",
+      "titre_h2": "Ce que votre corps a réellement perdu (et gardé) pendant la coupure d'été",
+      "id_ancre": "sec-2-ce-que-votre-corps-a-reellement-perdu-et",
+      "champ_paragraphe": "article_paragraphe_2",
+      "html": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">La sensation trompeuse de la rentrée, c'est que le souffle revient vite alors que les tendons, eux, n'ont pas suivi le même rythme. Le système cardiovasculaire s'adapte en quelques séances, tandis que les tendons, les os et les fascias demandent des semaines, parfois des mois, pour retrouver leur tolérance à la charge répétée.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Un décalage entre le cardio et les tissus</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">C'est précisément ce décalage qui pousse beaucoup de coureurs à repartir trop vite dès la deuxième séance : le souffle suit, alors les jambes suivent aussi mentalement, mais les tendons n'ont pas eu le temps de se réhabituer à l'impact répété. La <strong>tendinopathie d'Achille</strong> et la <strong>périostite tibiale</strong> figurent parmi les blessures de rentrée les plus fréquentes, précisément parce que le stress mécanique augmente plus vite que la capacité des tissus à l'absorber.</p><div class=\"nk-callout nk-callout--table\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 12px 12px 0;padding:1.5rem 1.75rem;margin:1.5rem 0\"><div style=\"overflow-x:auto\"><table style=\"width:100%;border-collapse:collapse;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;background:#fff\"><caption style=\"caption-side:top;text-align:left;font-size:13px;color:#5a5a5a;padding-bottom:8px\">Vitesse de perte et de récupération des principaux paramètres physiologiques</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Paramètre</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Vitesse de perte</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Vitesse de récupération</th></tr></thead><tbody><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">VO2max</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide (jusqu'à 6 à 20 % chez des sujets entraînés lors d'un arrêt prolongé)</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide, quelques séances suffisent à amorcer le retour</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Volume plasmatique</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide, en quelques jours à une semaine</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Tendons et os</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Plus lente à se dégrader</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Très lente, se compte en semaines voire en mois</td></tr></tbody></table></div></div><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Un risque de blessure déjà élevé chez le coureur récréatif</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">L'incidence des blessures liées à la course peut atteindre jusqu'à 33 pour 1 000 heures de pratique chez le coureur novice, un chiffre qui rappelle que la reprise n'est pas le moment de compenser les semaines manquées. Comme le souligne <a style=\"color:#607272;text-decoration:underline\" target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.danslateteduncoureur.fr/blog/reprise-couse-run-nouvelle-annee-bonnes-bases-eviter-erreur\">Dans la tête d'un coureur</a>, « il existe des adaptations rapides et d'autres beaucoup plus lentes. C'est précisément pour cette raison que la progressivité est indispensable lors d'une reprise ».</p><div class=\"nk-callout nk-callout--cta\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 8px 8px 0;padding:1rem 1.5rem;margin:1.75rem 0\"><p style=\"margin:0 0 .75rem;color:#2c3e50;font-size:15.5px;font-weight:500;line-height:1.6\">Besoin d'un plan adapté à votre situation exacte plutôt qu'un modèle générique ?</p><div style=\"display:flex;flex-wrap:wrap;gap:.6rem\"><a href=\"\" style=\"display:inline-block;padding:10px 18px;border-radius:999px;background:#607272;color:#fff;font-weight:700;font-size:14.5px;text-decoration:none\">Demander un accompagnement</a><a href=\"tel:\" style=\"display:inline-block;padding:10px 18px;border-radius:999px;border:2px solid #607272;color:#607272;font-weight:700;font-size:14.5px;text-decoration:none\"></a></div></div>"
+    },
+    {
+      "bloc": 3,
+      "champ_titre": "article_titre_3",
+      "titre_h2": "Avant de relancer : où en êtes-vous vraiment ? (autodiagnostic en 5 questions)",
+      "id_ancre": "sec-3-avant-de-relancer-ou-en-etes-vous-vraime",
+      "champ_paragraphe": "article_paragraphe_3",
+      "html": "\n<!-- [IMAGE 1] à insérer ici. Semaine 1 : alterner marche et course courte pour réadapter progressivement l'organisme.\n     <figure>\n       <img src=\"/images/reprise-course-marche-course-semaine-1.webp\" alt=\"Coureur en phase de marche-course progressive, semaine 1 de reprise après coupure estivale\">\n       <figcaption>Semaine 1 : alterner marche et course courte pour réadapter progressivement l'organisme.</figcaption>\n     </figure> -->\n<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Prendre le plan du niveau au-dessus de sa vraie situation est l'erreur la plus courante de rentrée. Avant d'ouvrir le tableau des quatre semaines, répondez honnêtement à cinq questions : elles déterminent votre niveau de départ réel, pas celui que vous aimeriez avoir.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Les cinq critères qui fixent votre point de départ</h3><div class=\"nk-cards-grid\" style=\"display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;margin:1.5rem 0\"><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Durée exacte de l'arrêt</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Comptez les semaines réelles sans course, pas une estimation approximative. Deux semaines et sept semaines ne demandent pas le même point de départ.</p></div><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Volume habituel avant coupure</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Un coureur qui faisait 40 km par semaine ne repart pas comme un débutant, même après plusieurs semaines de coupure.</p></div><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Activité maintenue l'été</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Marche active, natation ou vélo pendant les vacances allègent la remise en route cardiovasculaire, sans protéger les tendons de l'impact spécifique de la course.</p></div><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Gêne résiduelle</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Toute douleur, même légère, à un tendon ou une articulation impose de ralentir le plan avant même la première séance.</p></div></div><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Le changement de surface, un facteur souvent oublié</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">L'été change souvent la surface de pratique : sable, sentiers en vacances, terrains irréguliers. Revenir au bitume ou au trottoir en septembre constitue en soi une augmentation de la charge mécanique, même si la distance parcourue reste identique. Vérifiez aussi l'état de vos chaussures de running : une paire trop usée à la reprise multiplie les contraintes sur les tendons déjà fragilisés par l'inactivité.</p><div class=\"nk-callout nk-callout--conseil\" style=\"background:#f9f9f9;border-left:4px solid #8cc63f;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#333333;font-size:16px;font-weight:500;line-height:1.7\"><strong>Conseil :</strong> notez vos réponses aux cinq questions avant de choisir votre niveau dans le plan de quatre semaines. Un profil « niveau A » qui a maintenu du vélo tout l'été peut avancer plus vite qu'un profil identique resté totalement inactif.</p></div>"
+    },
+    {
+      "bloc": 4,
+      "champ_titre": "article_titre_4",
+      "titre_h2": "Le plan progressif sur 4 semaines, semaine par semaine (3 niveaux)",
+      "id_ancre": "sec-4-le-plan-progressif-sur-4-semaines-semain",
+      "champ_paragraphe": "article_paragraphe_4",
+      "html": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Voici le protocole complet de <strong>reprise course à pied après coupure</strong>, structuré autour de trois séances hebdomadaires et de trois niveaux selon la durée de l'arrêt. Chaque semaine ajoute un seul élément nouveau (durée, fréquence ou intensité), jamais plusieurs à la fois.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Le tableau maître des quatre semaines</h3><div class=\"nk-callout nk-callout--table\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 12px 12px 0;padding:1.5rem 1.75rem;margin:1.5rem 0\"><div style=\"overflow-x:auto\"><table style=\"width:100%;border-collapse:collapse;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;background:#fff\"><caption style=\"caption-side:top;text-align:left;font-size:13px;color:#5a5a5a;padding-bottom:8px\">Plan de reprise sur 4 semaines selon la durée de coupure (3 séances/semaine)</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Semaine</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Niveau A (2-4 sem d'arrêt)</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Niveau B (4-8 sem d'arrêt)</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Niveau C (+8 sem ou blessure)</th></tr></thead><tbody><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 1</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 20-25 min, allure conversationnelle, 1 jour de repos entre séances</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course fractionnée (1 min course / 1 min marche), 15-20 min au total</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche active ou cross-training, échauffement articulaire, pas de course continue</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 2</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 25-30 min, ajout d'un léger relief</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course avec blocs de course allongés (2 min course / 1 min marche)</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course très légère, blocs courts, surveillance de toute gêne</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 3</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Sortie longue 35-40 min introduite, reste des séances à 25-30 min</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 20 min sur une séance, marche-course sur les deux autres</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course avec blocs de course courts (1 min course / 2 min marche)</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 4</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Sortie longue 45 min, une séance avec quelques relances brèves</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 25-30 min sur deux séances, sortie longue 30 min</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue courte 15-20 min sur une séance, marche-course sur les autres</td></tr></tbody></table></div></div><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Comment savoir si vous êtes prêt à passer au plan suivant</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Le critère de sortie du plan de quatre semaines est simple à vérifier : courir 45 minutes en continu sans essoufflement excessif ni douleur, avec une récupération complète en 24 heures après la sortie longue. Si ce n'est pas encore le cas en fin de semaine 4, mieux vaut répéter la semaine plutôt que d'avancer.</p><div class=\"nk-callout nk-callout--steps\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 12px 12px 0;padding:1.5rem 1.75rem;margin:1.5rem 0\"><strong style=\"color:#607272;display:block;margin-bottom:0.75rem;font-size:1.15rem\"><span aria-hidden=\"true\">📋</span> Les 4 étapes de la reprise progressive</strong><ol style=\"margin:0;padding-left:1.5rem\"><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>Choisir son niveau de départ</strong> – selon la durée réelle de la coupure et l'activité maintenue l'été.</li><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>Espacer les séances</strong> – un jour sans impact entre deux sorties dès les semaines 1 et 2 pour laisser les tendons récupérer.</li><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>N'augmenter qu'un seul paramètre par semaine</strong> – durée, fréquence ou intensité, jamais les trois en même temps.</li><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>Valider avant de passer au niveau supérieur</strong> – 45 minutes continues sans douleur et récupération complète en 24 heures.</li></ol></div>"
+    },
+    {
+      "bloc": 5,
+      "champ_titre": "article_titre_5",
+      "titre_h2": "Progresser sans se blesser : la règle des 10% est dépassée, voici le bon repère",
+      "id_ancre": "sec-5-progresser-sans-se-blesser-la-regle-des-",
+      "champ_paragraphe": "article_paragraphe_5",
+      "html": "\n<!-- [IMAGE 2] à insérer ici. Semaine 3 : la sortie longue permet de retrouver l'endurance de base et la confiance.\n     <figure>\n       <img src=\"/images/reprise-course-sortie-longue-semaine-3.webp\" alt=\"Coureuse en sortie longue de semaine 3, reprise progressive après coupure estivale, allure fondamentale\">\n       <figcaption>Semaine 3 : la sortie longue permet de retrouver l'endurance de base et la confiance.</figcaption>\n     </figure> -->\n<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">La règle des 10 % d'augmentation hebdomadaire, longtemps citée comme référence, ne repose pas sur un fondement scientifique solide selon les travaux d'une équipe de l'Université Laval. Le repère qui compte réellement pour limiter le risque de blessure n'est pas le volume total de la semaine, mais la longueur d'une sortie comparée à la plus longue effectuée sur les trente derniers jours.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Ce que montrent les données récentes sur la charge d'entraînement</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Une analyse portant sur plus de 588 000 séances a montré que le risque de blessure augmente d'environ 64 % lorsque la sortie la plus longue dépasse de 10 à 30 % le pic des trente derniers jours, et grimpe à 128 % lorsque cette sortie double. En pratique, pour votre reprise, cela signifie qu'il faut surveiller le saut entre deux sorties longues consécutives, pas seulement le total kilométrique de la semaine.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Les erreurs de rentrée les plus fréquentes</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Comme le rappelle <a style=\"color:#607272;text-decoration:underline\" target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.danslateteduncoureur.fr/blog/reprise-couse-run-nouvelle-annee-bonnes-bases-eviter-erreur\">Dans la tête d'un coureur</a>, « passer brutalement de zéro à plusieurs sources de stress hebdomadaires augmente le risque de blessure, même si l'intention est préventive ». Cinq erreurs reviennent chaque rentrée de septembre.</p><ul style=\"margin:0 0 1.25rem;padding-left:1.5rem\"><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Reprendre à l'allure de juin</strong> : le cardio suit, les tendons non, d'où un sentiment de facilité dangereux.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Empiler le volume et l'intensité</strong> sur la même semaine, au lieu de n'augmenter qu'un seul paramètre.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Doubler la sortie longue</strong> d'une semaine à l'autre sans palier intermédiaire.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Ignorer une gêne légère</strong> en espérant qu'elle disparaisse en courant dessus.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Négliger le renforcement des mollets</strong> et des chevilles, alors que ce sont eux qui absorbent l'impact au retour du bitume.</li></ul><div class=\"nk-callout nk-callout--attention\" style=\"background:#fdecec;border-left:4px solid #e5484d;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#7a271a;font-size:16px;font-weight:500;line-height:1.7\"><strong>Attention :</strong> une douleur qui persiste au-delà de 48 heures après une séance, ou qui apparaît systématiquement au même point d'appui, n'est pas une simple courbature de reprise. Elle doit faire réduire le plan, voire suspendre la course quelques jours, plutôt que d'être « poussée » à la séance suivante.</p></div>"
+    },
+    {
+      "bloc": 6,
+      "champ_titre": "article_titre_6",
+      "titre_h2": "Le matériel et la récupération qui font la différence en septembre",
+      "id_ancre": "sec-6-le-materiel-et-la-recuperation-qui-font-",
+      "champ_paragraphe": "article_paragraphe_6",
+      "html": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Le plan d'entraînement fait la majeure partie du travail, mais deux points annexes réduisent nettement le risque de blessure de rentrée : l'état des chaussures et la gestion de la récupération entre les séances, surtout pendant les deux premières semaines où les tissus sont encore fragiles.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Vérifier ses chaussures avant la première sortie</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Une paire de chaussures de running restée dans le placard tout l'été peut avoir perdu une partie de son amorti sans que cela se voie à l'œil nu. Pour une paire d'entrée de gamme, comptez autour de 29,99 € (prix constaté chez un vendeur en ligne courant 2026, à confirmer selon la marque et la morphologie du pied), tandis qu'un modèle plus technique orienté amorti se situe davantage entre 135 et 165 € selon les gammes observées sur des plateformes spécialisées. Ces montants restent indicatifs et dépendent surtout de votre foulée et de la surface pratiquée.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Soigner la récupération entre deux séances</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Certains accessoires de récupération, comme des chaussettes de compression, peuvent accompagner les semaines de reprise sans remplacer le repos lui-même : comptez par exemple environ 51,90 € pour un modèle de compression dédié à la récupération (prix constaté courant 2026, à titre indicatif). L'essentiel reste le jour sans impact entre les séances des semaines 1 et 2, et un sommeil suffisant, facteur souvent sous-estimé dans la reconstruction tissulaire.</p><div class=\"nk-callout nk-callout--conseil\" style=\"background:#f9f9f9;border-left:4px solid #8cc63f;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#333333;font-size:16px;font-weight:500;line-height:1.7\"><strong>Conseil :</strong> comme le résume <a style=\"color:#607272;text-decoration:underline\" target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.danslateteduncoureur.fr/blog/reprise-couse-run-nouvelle-annee-bonnes-bases-eviter-erreur\">Dans la tête d'un coureur</a>, « il est plus juste de se considérer comme un sportif en phase de reconstruction, plutôt que comme un coureur en perte de niveau ». Cet état d'esprit change la façon d'aborder les semaines 1 et 2, sans frustration inutile.</p></div><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Pour aller plus loin sur la remise en mouvement générale avant de reprendre spécifiquement la course, notre article sur le <a style=\"color:#607272;text-decoration:underline\" href=\"https://willrun.fr/blog/plan-7-jours-sedentaire/\">plan sur 7 jours pour une personne sédentaire</a> détaille les premiers pas utiles pour ceux dont la coupure d'été s'est accompagnée d'une inactivité plus large.</p>"
+    },
+    {
+      "bloc": 7,
+      "champ_titre": "article_titre_7",
+      "titre_h2": "Pourquoi s'appuyer sur un accompagnement structuré plutôt qu'un plan générique",
+      "id_ancre": "sec-7-pourquoi-s-appuyer-sur-un-accompagnement",
+      "champ_paragraphe": "article_paragraphe_7",
+      "html": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Un tableau de quatre semaines donne un cadre solide, mais il ne remplace pas un regard individualisé sur votre historique d'entraînement, vos antécédents de blessure et votre rythme de progression réel. La <strong>reprise course à pied après coupure</strong> se joue autant dans les ajustements semaine après semaine que dans le plan de départ lui-même.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Ce qu'apporte un suivi personnalisé</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Ajuster le plan selon la fatigue réelle plutôt qu'un calendrier figé permet d'éviter deux écueils : la reprise trop lente qui démotive, et la reprise trop rapide qui blesse. Un suivi structuré identifie les signaux précoces (raideur inhabituelle, essoufflement anormal, fatigue qui persiste) avant qu'ils ne deviennent une gêne installée, et adapte le niveau A, B ou C présenté plus haut à l'évolution réelle des séances, semaine par semaine.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Une progression fondée sur l'expérience terrain</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Le protocole présenté dans cet article s'appuie sur des repères de charge d'entraînement documentés, croisés avec l'observation répétée des schémas de blessure de rentrée chez le coureur récréatif. Cette approche évite de calquer un modèle unique sur des situations pourtant très différentes : un coureur qui a maintenu une activité cardiovasculaire tout l'été n'a pas le même point de départ qu'un coureur resté totalement à l'arrêt, même si les deux se sentent également « rouillés » à la reprise.</p><div class=\"nk-callout nk-callout--cta\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:2.5rem 0 1.5rem;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><strong style=\"color:#607272;display:block;margin-bottom:0.5rem;font-size:18px\"><span aria-hidden=\"true\">📞</span> Un plan de reprise adapté à votre profil, pas un modèle standard</strong><p style=\"margin:0 0 1rem;color:#2c3e50;font-size:16px;font-weight:500;line-height:1.6\">Chaque coupure d'été est différente selon sa durée, l'activité maintenue et les antécédents de chacun. Échangez avec nous pour construire une progression sur mesure, avec des ajustements réels semaine après semaine plutôt qu'un tableau figé.</p><div style=\"display:flex;flex-wrap:wrap;gap:.75rem\"><a href=\"\" style=\"display:inline-block;padding:12px 22px;border-radius:999px;background:#607272;color:#fff;font-weight:700;text-decoration:none\">Demander un plan personnalisé</a><a href=\"tel:\" style=\"display:inline-block;padding:12px 22px;border-radius:999px;border:2px solid #607272;color:#607272;font-weight:700;text-decoration:none\">Appeler le </a></div></div>"
+    }
+  ],
+  "seo_yoast": {
+    "meta_title": "Reprise course après coupure : plan 4 semaines progressif",
+    "meta_description": "Plan progressif 4 semaines pour reprendre la course après une coupure d'été. Marche-course, allure conversationnelle, sortie longue : protocole sécurisé et adapté.",
+    "slug": "reprise-course-apres-coupure-plan-4-semaines",
+    "focus_keyword": "reprise course a pied apres coupure",
+    "secondary_keywords": [
+      "plan reprise course 4 semaines",
+      "marche-course fractionnée",
+      "reprise après coupure été",
+      "allure conversationnelle",
+      "désentraînement course à pied",
+      "reprendre la course progressivement",
+      "tolérance tissulaire",
+      "reprise sans blessure"
+    ],
+    "tags": [
+      "course à pied",
+      "reprise d'entraînement",
+      "plan d'entraînement",
+      "coupure d'été",
+      "prévention blessures",
+      "marche-course",
+      "rentrée sportive",
+      "endurance fondamentale"
+    ],
+    "canonical": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/",
+    "og_url": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/",
+    "og_site_name": "Will'Run",
+    "robots": "index, follow",
+    "og_title": "Reprise course après coupure : plan 4 semaines progressif | Will'Run",
+    "og_description": "Plan progressif 4 semaines pour reprendre la course après une coupure d'été. Marche-course, allure conversationnelle, sortie longue : protocole sécurisé et adapté.",
+    "twitter_title": "Reprise course après coupure : plan 4 semaines progressif",
+    "twitter_description": "Plan progressif 4 semaines pour reprendre la course après une coupure d'été. Marche-course, allure conversationnelle, sortie longue : protocole sécurisé et adapté.",
+    "reading_time": "11 min"
+  },
+  "schema_org": {
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Reprise course après coupure : plan 4 semaines progressif",
+      "description": "Plan progressif 4 semaines pour reprendre la course après une coupure d'été. Marche-course, allure conversationnelle, sortie longue : protocole sécurisé et adapté.",
+      "datePublished": "2026-08-11",
+      "dateModified": "2026-08-11",
+      "wordCount": 1800,
+      "articleSection": "Entraînement",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Reprise de la course à pied"
+        },
+        {
+          "@type": "Thing",
+          "name": "Désentraînement"
+        },
+        {
+          "@type": "Thing",
+          "name": "Marche-course fractionnée"
+        },
+        {
+          "@type": "Thing",
+          "name": "Tolérance tissulaire"
+        },
+        {
+          "@type": "Thing",
+          "name": "Prévention des blessures"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "VO2max"
+        },
+        {
+          "@type": "Thing",
+          "name": "VMA (vitesse maximale aérobie)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Allure conversationnelle"
+        },
+        {
+          "@type": "Thing",
+          "name": "Tendinopathie"
+        },
+        {
+          "@type": "Thing",
+          "name": "Périostite tibiale"
+        },
+        {
+          "@type": "Thing",
+          "name": "Syndrome de l'essuie-glace"
+        },
+        {
+          "@type": "Thing",
+          "name": "Aponévrosite plantaire"
+        },
+        {
+          "@type": "Thing",
+          "name": "Renforcement musculaire"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cross-training"
+        }
+      ],
+      "keywords": "reprise course à pied après coupure, plan reprise course 4 semaines, marche-course fractionnée, reprise après coupure été, allure conversationnelle, désentraînement, tolérance tissulaire, prévention blessures",
+      "inLanguage": "fr",
+      "@id": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/#article",
+      "mainEntityOfPage": {
+        "@id": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Rédaction",
+        "url": "https://willrun.fr/auteur/redaction"
+      },
+      "publisher": {
+        "@id": "https://willrun.fr/#organisation"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://willrun.fr/images/reprise-course-a-pied-apres-coupure-septembre-og.webp",
+        "width": 1200,
+        "height": 630
+      }
+    },
+    "faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "@id": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/#faq",
+      "isPartOf": {
+        "@id": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien de temps faut-il pour retrouver son niveau après une coupure d'été ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Comptez en général autant de temps que la durée de la coupure, parfois un peu moins : après 4 à 6 semaines d'arrêt, la plupart des coureurs retrouvent leurs sensations en 4 à 6 semaines de pratique régulière. La capacité cardio-respiratoire revient plus vite que la tolérance des tendons et des os, qui conditionne le risque de blessure. Un arrêt prolongé peut réduire le VO2max de 6 à 20% chez des sujets très entraînés (données Garmin/Firstbeat)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Peut-on reprendre directement en course continue après 3 semaines d'arrêt ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Après 2 à 3 semaines seulement, oui dans la plupart des cas : reprenez par 2 à 3 sorties de 20 à 30 minutes en allure conversationnelle, sans intensité, avec un jour de récupération entre chaque. Au-delà de 4 semaines d'arrêt, ou si vous avez ressenti une gêne avant la coupure, commencez par de la marche-course pour redonner progressivement de l'impact aux tendons et aux os."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "À quelle allure reprendre la course à pied après une coupure ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "À l'allure où vous pouvez tenir une conversation complète, soit typiquement 45 à 90 secondes au kilomètre plus lent que votre allure d'avant la coupure. C'est l'erreur la plus fréquente en septembre : le cardio récupère vite et donne l'impression que tout est redevenu facile, alors que les tissus n'ont pas encore réencaissé l'impact. L'intensité revient en semaine 4, pas avant."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de séances par semaine pour une reprise progressive ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trois séances hebdomadaires constituent le meilleur compromis entre stimulus et récupération lors d'une reprise, deux seulement en semaine 1 si la coupure a dépassé 8 semaines. Gardez au moins un jour sans impact entre deux sorties pendant les deux premières semaines et ajoutez plutôt du vélo, de la natation ou de l'elliptique si vous voulez travailler davantage sans augmenter la charge mécanique."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il vraiment alterner marche et course pour reprendre ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "C'est la méthode la plus sûre après une coupure de plus d'un mois. Les fractions de marche réduisent le volume d'impact total tout en maintenant une durée d'effort motivante : par exemple 2 minutes de course pour 1 minute de marche, répété 8 à 10 fois. Vous réduisez ensuite la marche sur 2 à 3 semaines jusqu'à la course continue, sans jamais franchir un palier douloureux."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "La règle des 10% par semaine est-elle toujours valable ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Elle reste un garde-fou grossier, mais elle n'a pas de fondement scientifique solide : une revue de l'Université Laval l'a remise en question en 2023. Une analyse publiée en 2025 sur plus de 588 000 séances de course montre que le meilleur prédicteur de blessure est la longueur d'une seule sortie comparée à la plus longue des 30 derniers jours, avec un risque majoré d'environ 64% pour un dépassement de 10 à 30%."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ma reprise fait mal : est-ce normal ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Une gêne musculaire diffuse, symétrique, qui s'estompe à l'échauffement et disparaît en 24 heures est habituelle lors d'une reprise. En revanche, une douleur localisée qui revient à chaque séance, une douleur osseuse en un point précis, une douleur nocturne, une boiterie ou un gonflement ne relèvent pas d'une simple adaptation : arrêtez de courir et faites évaluer la zone par un professionnel de santé."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ma coupure était due à une blessure : ce plan sur 4 semaines convient-il ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non, pas tel quel. Ce plan est conçu pour une coupure volontaire sans douleur. Après une blessure, la reprise dépend du tissu concerné, du délai de cicatrisation et de critères de force et de tolérance à l'impact à tester avant de courir. Un bilan permet de définir le point de départ réel et les paliers de progression plutôt que d'appliquer un calendrier standard."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il changer ses chaussures de running à la rentrée ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vérifiez-le plutôt que de le deviner : regardez le kilométrage total et l'état de la semelle intermédiaire, qui s'affaisse avant l'usure visible de la semelle extérieure. Un modèle très usé, ou au contraire un modèle neuf très différent du précédent, modifie la charge mécanique au moment même où vous augmentez le volume : c'est un facteur de risque cumulé typique du mois de septembre."
+          }
+        }
+      ]
+    },
+    "webpage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/#webpage",
+      "url": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/",
+      "name": "Reprise de la course à pied en septembre après une coupure d'été : le plan progressif sur 4 semaines",
+      "inLanguage": "fr-FR",
+      "isPartOf": {
+        "@id": "https://willrun.fr/#website"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "h1",
+          "p:nth-of-type(1)",
+          "h3:nth-of-type(1)",
+          "p:nth-of-type(2)"
+        ]
+      }
+    },
+    "organisation": {},
+    "breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://willrun.fr"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://willrun.fr/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Reprise de la course à pied en septembre après une coupure d'été : le plan progressif sur 4 semaines",
+          "item": "https://willrun.fr/article/reprise-course-apres-coupure-plan-4-semaines/"
+        }
+      ]
+    }
+  },
+  "champs_acf": {
+    "article_titre": "Reprise de la course à pied en septembre après une coupure d'été : le plan progressif sur 4 semaines",
+    "url_blog": "reprise-course-apres-coupure-plan-4-semaines",
+    "article_a_la_une": true,
+    "article_image_alt": "Coureuse préparant sa reprise de course à pied en septembre après une coupure d'été, lacets de running au point de départ",
+    "article_image_nom_fichier": "reprise-course-a-pied-apres-coupure-septembre-og.webp",
+    "article_image_title": "Reprise de la course à pied après coupure : préparation progressive",
+    "article_auteur_nom": "Rédaction",
+    "article_auteur_mention": "",
+    "article_extrait": "Pour reprendre la course après une coupure d'été, un plan progressif sur 4 semaines est essentiel : marche-course fractionnée en semaine 1, course continue à allure conversationnelle en semaine 2, sortie plus longue en semaine 3, et retour prudent d'intensité en semaine 4. Deux règles gouvernent ce protocole : ne jamais courir sur une douleur et augmenter un seul paramètre à la fois.",
+    "article_resume": "Reprendre la course après une coupure d'été demande une progression étalée sur 4 semaines, adaptée à la durée de l'arrêt (2-4 semaines, 4-8 semaines ou plus de 8 semaines). Le plan repose sur une montée progressive du volume et de l'intensité, en commençant par la marche-course et en respectant deux principes clés : ne pas courir sur la douleur et modifier un seul paramètre à la fois. La sensation trompeuse de la rentrée est que le souffle revient vite alors que les tendons demandent des semaines pour retrouver leur tolérance à la charge répétée.",
+    "article_tags": [
+      "course à pied",
+      "reprise d'entraînement",
+      "plan d'entraînement",
+      "coupure d'été",
+      "prévention blessures",
+      "marche-course",
+      "rentrée sportive",
+      "endurance fondamentale"
+    ],
+    "article_categorie": "",
+    "article_date_publication": "2026-08-11T07:55:31.560Z",
+    "article_temps_lecture": "7 min",
+    "article_articles_connexes": [
+      {
+        "titre": "reprendre sport apres arret",
+        "url": "https://willrun.fr/blog/reprendre-sport-apres-arret/"
+      },
+      {
+        "titre": "plan 7 jours sedentaire",
+        "url": "https://willrun.fr/blog/plan-7-jours-sedentaire/"
+      }
+    ],
+    "article_paragraphe_1": "<style>@media (max-width:640px){.nk-cards-grid{grid-template-columns:1fr!important}}.nk-card{transition:box-shadow .2s ease,transform .2s ease}.nk-card:hover{box-shadow:0 4px 16px rgba(0,0,0,.08);transform:translateY(-2px)}.nk-callout--table table tbody tr:nth-child(even){background:#fafbf7}.nk-faq-item summary:hover{filter:brightness(0.97)}.nk-faq-item summary:focus-visible,.nk-callout a:focus-visible,.nk-card:focus-visible,.nk-card a:focus-visible{outline:3px solid #607272;outline-offset:2px}.nk-faq-ic{transition:transform .15s ease}@media print{.nk-callout{background:#fff!important;border:1px solid #333!important;-webkit-print-color-adjust:exact;print-color-adjust:exact}.nk-faq-ic{display:none}}</style><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Pour une <strong>reprise course à pied après coupure</strong> réussie en septembre, le principe est simple : quatre semaines progressives, en partant de la marche-course et en terminant par une sortie longue et un peu d'intensité. Semaine 1 : marche-course fractionnée. Semaine 2 : course continue à allure conversationnelle. Semaine 3 : introduction d'une sortie plus longue. Semaine 4 : retour prudent d'un peu de rythme. Deux règles gouvernent tout le reste : ne jamais courir sur une douleur, et augmenter un seul paramètre à la fois (durée, fréquence ou intensité, jamais les trois ensemble).</p><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Ce plan concerne une coupure volontaire de l'été, sans douleur ni blessure en cours. Si l'arrêt fait suite à une entorse, une tendinopathie ou toute gêne mécanique, mieux vaut passer par un bilan avant de relacer, car la logique de reconstruction n'est pas la même que celle d'un simple désentraînement.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Trois profils, trois points de départ</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">La durée de l'arrêt change tout. Une coupure de deux à quatre semaines demande surtout de la prudence sur l'intensité. Une coupure de quatre à huit semaines impose de repasser par la marche-course dès le départ. Au-delà de huit semaines, ou en cas de reprise après blessure, le protocole doit être encore plus étalé, avec un accompagnement adapté si des douleurs réapparaissent.</p><ul style=\"margin:0 0 1.25rem;padding-left:1.5rem\"><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Coupure de 2 à 4 semaines</strong> : reprise directe en course continue courte, allure très souple les deux premières séances.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Coupure de 4 à 8 semaines</strong> : semaine 1 entièrement en marche-course, puis montée progressive du temps de course continue.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Coupure de plus de 8 semaines ou blessure</strong> : plan étalé sur plus de quatre semaines, avec un avis médical ou kiné si une douleur persiste, et un renvoi utile vers un article dédié à la <a style=\"color:#607272;text-decoration:underline\" href=\"https://willrun.fr/blog/reprendre-sport-apres-arret/\">reprise du sport après un arrêt</a>.</li></ul><div class=\"nk-callout nk-callout--note\" style=\"background:#eef2f7;border-left:4px solid #5b7a9d;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#2c3e50;font-size:16px;font-weight:500;line-height:1.7\"><strong>À noter :</strong> ce plan de quatre semaines s'adresse à une coupure d'été sans douleur en cours. Une reprise après blessure suit une autre logique, davantage centrée sur la tolérance tissulaire progressive que sur le seul volume hebdomadaire.</p></div>",
+    "article_titre_1": "Reprise de la course à pied après une coupure : la réponse en 4 semaines",
+    "article_paragraphe_2": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">La sensation trompeuse de la rentrée, c'est que le souffle revient vite alors que les tendons, eux, n'ont pas suivi le même rythme. Le système cardiovasculaire s'adapte en quelques séances, tandis que les tendons, les os et les fascias demandent des semaines, parfois des mois, pour retrouver leur tolérance à la charge répétée.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Un décalage entre le cardio et les tissus</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">C'est précisément ce décalage qui pousse beaucoup de coureurs à repartir trop vite dès la deuxième séance : le souffle suit, alors les jambes suivent aussi mentalement, mais les tendons n'ont pas eu le temps de se réhabituer à l'impact répété. La <strong>tendinopathie d'Achille</strong> et la <strong>périostite tibiale</strong> figurent parmi les blessures de rentrée les plus fréquentes, précisément parce que le stress mécanique augmente plus vite que la capacité des tissus à l'absorber.</p><div class=\"nk-callout nk-callout--table\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 12px 12px 0;padding:1.5rem 1.75rem;margin:1.5rem 0\"><div style=\"overflow-x:auto\"><table style=\"width:100%;border-collapse:collapse;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;background:#fff\"><caption style=\"caption-side:top;text-align:left;font-size:13px;color:#5a5a5a;padding-bottom:8px\">Vitesse de perte et de récupération des principaux paramètres physiologiques</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Paramètre</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Vitesse de perte</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Vitesse de récupération</th></tr></thead><tbody><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">VO2max</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide (jusqu'à 6 à 20 % chez des sujets entraînés lors d'un arrêt prolongé)</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide, quelques séances suffisent à amorcer le retour</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Volume plasmatique</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Rapide, en quelques jours à une semaine</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Tendons et os</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Plus lente à se dégrader</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Très lente, se compte en semaines voire en mois</td></tr></tbody></table></div></div><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Un risque de blessure déjà élevé chez le coureur récréatif</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">L'incidence des blessures liées à la course peut atteindre jusqu'à 33 pour 1 000 heures de pratique chez le coureur novice, un chiffre qui rappelle que la reprise n'est pas le moment de compenser les semaines manquées. Comme le souligne <a style=\"color:#607272;text-decoration:underline\" target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.danslateteduncoureur.fr/blog/reprise-couse-run-nouvelle-annee-bonnes-bases-eviter-erreur\">Dans la tête d'un coureur</a>, « il existe des adaptations rapides et d'autres beaucoup plus lentes. C'est précisément pour cette raison que la progressivité est indispensable lors d'une reprise ».</p><div class=\"nk-callout nk-callout--cta\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 8px 8px 0;padding:1rem 1.5rem;margin:1.75rem 0\"><p style=\"margin:0 0 .75rem;color:#2c3e50;font-size:15.5px;font-weight:500;line-height:1.6\">Besoin d'un plan adapté à votre situation exacte plutôt qu'un modèle générique ?</p><div style=\"display:flex;flex-wrap:wrap;gap:.6rem\"><a href=\"\" style=\"display:inline-block;padding:10px 18px;border-radius:999px;background:#607272;color:#fff;font-weight:700;font-size:14.5px;text-decoration:none\">Demander un accompagnement</a><a href=\"tel:\" style=\"display:inline-block;padding:10px 18px;border-radius:999px;border:2px solid #607272;color:#607272;font-weight:700;font-size:14.5px;text-decoration:none\"></a></div></div>",
+    "article_titre_2": "Ce que votre corps a réellement perdu (et gardé) pendant la coupure d'été",
+    "article_paragraphe_3": "\n<!-- [IMAGE 1] à insérer ici. Semaine 1 : alterner marche et course courte pour réadapter progressivement l'organisme.\n     <figure>\n       <img src=\"/images/reprise-course-marche-course-semaine-1.webp\" alt=\"Coureur en phase de marche-course progressive, semaine 1 de reprise après coupure estivale\">\n       <figcaption>Semaine 1 : alterner marche et course courte pour réadapter progressivement l'organisme.</figcaption>\n     </figure> -->\n<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Prendre le plan du niveau au-dessus de sa vraie situation est l'erreur la plus courante de rentrée. Avant d'ouvrir le tableau des quatre semaines, répondez honnêtement à cinq questions : elles déterminent votre niveau de départ réel, pas celui que vous aimeriez avoir.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Les cinq critères qui fixent votre point de départ</h3><div class=\"nk-cards-grid\" style=\"display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;margin:1.5rem 0\"><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Durée exacte de l'arrêt</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Comptez les semaines réelles sans course, pas une estimation approximative. Deux semaines et sept semaines ne demandent pas le même point de départ.</p></div><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Volume habituel avant coupure</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Un coureur qui faisait 40 km par semaine ne repart pas comme un débutant, même après plusieurs semaines de coupure.</p></div><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Activité maintenue l'été</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Marche active, natation ou vélo pendant les vacances allègent la remise en route cardiovasculaire, sans protéger les tendons de l'impact spécifique de la course.</p></div><div class=\"nk-card\" style=\"background:#fff;border:1px solid #e5e7eb;border-top:3px solid #bfe3e3;border-radius:8px;padding:1.25rem 1.5rem\"><p style=\"margin:0 0 0.5rem;color:#000;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:700\">Gêne résiduelle</p><p style=\"margin:0;color:#333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.6\">Toute douleur, même légère, à un tendon ou une articulation impose de ralentir le plan avant même la première séance.</p></div></div><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Le changement de surface, un facteur souvent oublié</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">L'été change souvent la surface de pratique : sable, sentiers en vacances, terrains irréguliers. Revenir au bitume ou au trottoir en septembre constitue en soi une augmentation de la charge mécanique, même si la distance parcourue reste identique. Vérifiez aussi l'état de vos chaussures de running : une paire trop usée à la reprise multiplie les contraintes sur les tendons déjà fragilisés par l'inactivité.</p><div class=\"nk-callout nk-callout--conseil\" style=\"background:#f9f9f9;border-left:4px solid #8cc63f;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#333333;font-size:16px;font-weight:500;line-height:1.7\"><strong>Conseil :</strong> notez vos réponses aux cinq questions avant de choisir votre niveau dans le plan de quatre semaines. Un profil « niveau A » qui a maintenu du vélo tout l'été peut avancer plus vite qu'un profil identique resté totalement inactif.</p></div>",
+    "article_titre_3": "Avant de relancer : où en êtes-vous vraiment ? (autodiagnostic en 5 questions)",
+    "article_paragraphe_4": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Voici le protocole complet de <strong>reprise course à pied après coupure</strong>, structuré autour de trois séances hebdomadaires et de trois niveaux selon la durée de l'arrêt. Chaque semaine ajoute un seul élément nouveau (durée, fréquence ou intensité), jamais plusieurs à la fois.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Le tableau maître des quatre semaines</h3><div class=\"nk-callout nk-callout--table\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 12px 12px 0;padding:1.5rem 1.75rem;margin:1.5rem 0\"><div style=\"overflow-x:auto\"><table style=\"width:100%;border-collapse:collapse;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;background:#fff\"><caption style=\"caption-side:top;text-align:left;font-size:13px;color:#5a5a5a;padding-bottom:8px\">Plan de reprise sur 4 semaines selon la durée de coupure (3 séances/semaine)</caption><thead><tr><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Semaine</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Niveau A (2-4 sem d'arrêt)</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Niveau B (4-8 sem d'arrêt)</th><th scope=\"col\" style=\"padding:12px 14px;text-align:left;color:#607272;font-weight:700;border:1px solid #e0e6d5\">Niveau C (+8 sem ou blessure)</th></tr></thead><tbody><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 1</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 20-25 min, allure conversationnelle, 1 jour de repos entre séances</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course fractionnée (1 min course / 1 min marche), 15-20 min au total</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche active ou cross-training, échauffement articulaire, pas de course continue</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 2</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 25-30 min, ajout d'un léger relief</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course avec blocs de course allongés (2 min course / 1 min marche)</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course très légère, blocs courts, surveillance de toute gêne</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 3</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Sortie longue 35-40 min introduite, reste des séances à 25-30 min</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 20 min sur une séance, marche-course sur les deux autres</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Marche-course avec blocs de course courts (1 min course / 2 min marche)</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#2c3e50;font-weight:600\">Semaine 4</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Sortie longue 45 min, une séance avec quelques relances brèves</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue 25-30 min sur deux séances, sortie longue 30 min</td><td style=\"padding:10px 14px;border:1px solid #e0e6d5;color:#333\">Course continue courte 15-20 min sur une séance, marche-course sur les autres</td></tr></tbody></table></div></div><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Comment savoir si vous êtes prêt à passer au plan suivant</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Le critère de sortie du plan de quatre semaines est simple à vérifier : courir 45 minutes en continu sans essoufflement excessif ni douleur, avec une récupération complète en 24 heures après la sortie longue. Si ce n'est pas encore le cas en fin de semaine 4, mieux vaut répéter la semaine plutôt que d'avancer.</p><div class=\"nk-callout nk-callout--steps\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 12px 12px 0;padding:1.5rem 1.75rem;margin:1.5rem 0\"><strong style=\"color:#607272;display:block;margin-bottom:0.75rem;font-size:1.15rem\"><span aria-hidden=\"true\">📋</span> Les 4 étapes de la reprise progressive</strong><ol style=\"margin:0;padding-left:1.5rem\"><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>Choisir son niveau de départ</strong> – selon la durée réelle de la coupure et l'activité maintenue l'été.</li><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>Espacer les séances</strong> – un jour sans impact entre deux sorties dès les semaines 1 et 2 pour laisser les tendons récupérer.</li><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>N'augmenter qu'un seul paramètre par semaine</strong> – durée, fréquence ou intensité, jamais les trois en même temps.</li><li style=\"margin-bottom:0.5rem;color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500\"><strong>Valider avant de passer au niveau supérieur</strong> – 45 minutes continues sans douleur et récupération complète en 24 heures.</li></ol></div>",
+    "article_titre_4": "Le plan progressif sur 4 semaines, semaine par semaine (3 niveaux)",
+    "article_paragraphe_5": "\n<!-- [IMAGE 2] à insérer ici. Semaine 3 : la sortie longue permet de retrouver l'endurance de base et la confiance.\n     <figure>\n       <img src=\"/images/reprise-course-sortie-longue-semaine-3.webp\" alt=\"Coureuse en sortie longue de semaine 3, reprise progressive après coupure estivale, allure fondamentale\">\n       <figcaption>Semaine 3 : la sortie longue permet de retrouver l'endurance de base et la confiance.</figcaption>\n     </figure> -->\n<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">La règle des 10 % d'augmentation hebdomadaire, longtemps citée comme référence, ne repose pas sur un fondement scientifique solide selon les travaux d'une équipe de l'Université Laval. Le repère qui compte réellement pour limiter le risque de blessure n'est pas le volume total de la semaine, mais la longueur d'une sortie comparée à la plus longue effectuée sur les trente derniers jours.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Ce que montrent les données récentes sur la charge d'entraînement</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Une analyse portant sur plus de 588 000 séances a montré que le risque de blessure augmente d'environ 64 % lorsque la sortie la plus longue dépasse de 10 à 30 % le pic des trente derniers jours, et grimpe à 128 % lorsque cette sortie double. En pratique, pour votre reprise, cela signifie qu'il faut surveiller le saut entre deux sorties longues consécutives, pas seulement le total kilométrique de la semaine.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Les erreurs de rentrée les plus fréquentes</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Comme le rappelle <a style=\"color:#607272;text-decoration:underline\" target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.danslateteduncoureur.fr/blog/reprise-couse-run-nouvelle-annee-bonnes-bases-eviter-erreur\">Dans la tête d'un coureur</a>, « passer brutalement de zéro à plusieurs sources de stress hebdomadaires augmente le risque de blessure, même si l'intention est préventive ». Cinq erreurs reviennent chaque rentrée de septembre.</p><ul style=\"margin:0 0 1.25rem;padding-left:1.5rem\"><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Reprendre à l'allure de juin</strong> : le cardio suit, les tendons non, d'où un sentiment de facilité dangereux.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Empiler le volume et l'intensité</strong> sur la même semaine, au lieu de n'augmenter qu'un seul paramètre.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Doubler la sortie longue</strong> d'une semaine à l'autre sans palier intermédiaire.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Ignorer une gêne légère</strong> en espérant qu'elle disparaisse en courant dessus.</li><li style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin-bottom:0.5rem\"><strong>Négliger le renforcement des mollets</strong> et des chevilles, alors que ce sont eux qui absorbent l'impact au retour du bitume.</li></ul><div class=\"nk-callout nk-callout--attention\" style=\"background:#fdecec;border-left:4px solid #e5484d;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#7a271a;font-size:16px;font-weight:500;line-height:1.7\"><strong>Attention :</strong> une douleur qui persiste au-delà de 48 heures après une séance, ou qui apparaît systématiquement au même point d'appui, n'est pas une simple courbature de reprise. Elle doit faire réduire le plan, voire suspendre la course quelques jours, plutôt que d'être « poussée » à la séance suivante.</p></div>",
+    "article_titre_5": "Progresser sans se blesser : la règle des 10% est dépassée, voici le bon repère",
+    "article_paragraphe_6": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Le plan d'entraînement fait la majeure partie du travail, mais deux points annexes réduisent nettement le risque de blessure de rentrée : l'état des chaussures et la gestion de la récupération entre les séances, surtout pendant les deux premières semaines où les tissus sont encore fragiles.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Vérifier ses chaussures avant la première sortie</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Une paire de chaussures de running restée dans le placard tout l'été peut avoir perdu une partie de son amorti sans que cela se voie à l'œil nu. Pour une paire d'entrée de gamme, comptez autour de 29,99 € (prix constaté chez un vendeur en ligne courant 2026, à confirmer selon la marque et la morphologie du pied), tandis qu'un modèle plus technique orienté amorti se situe davantage entre 135 et 165 € selon les gammes observées sur des plateformes spécialisées. Ces montants restent indicatifs et dépendent surtout de votre foulée et de la surface pratiquée.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Soigner la récupération entre deux séances</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Certains accessoires de récupération, comme des chaussettes de compression, peuvent accompagner les semaines de reprise sans remplacer le repos lui-même : comptez par exemple environ 51,90 € pour un modèle de compression dédié à la récupération (prix constaté courant 2026, à titre indicatif). L'essentiel reste le jour sans impact entre les séances des semaines 1 et 2, et un sommeil suffisant, facteur souvent sous-estimé dans la reconstruction tissulaire.</p><div class=\"nk-callout nk-callout--conseil\" style=\"background:#f9f9f9;border-left:4px solid #8cc63f;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><p style=\"margin:0;color:#333333;font-size:16px;font-weight:500;line-height:1.7\"><strong>Conseil :</strong> comme le résume <a style=\"color:#607272;text-decoration:underline\" target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.danslateteduncoureur.fr/blog/reprise-couse-run-nouvelle-annee-bonnes-bases-eviter-erreur\">Dans la tête d'un coureur</a>, « il est plus juste de se considérer comme un sportif en phase de reconstruction, plutôt que comme un coureur en perte de niveau ». Cet état d'esprit change la façon d'aborder les semaines 1 et 2, sans frustration inutile.</p></div><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Pour aller plus loin sur la remise en mouvement générale avant de reprendre spécifiquement la course, notre article sur le <a style=\"color:#607272;text-decoration:underline\" href=\"https://willrun.fr/blog/plan-7-jours-sedentaire/\">plan sur 7 jours pour une personne sédentaire</a> détaille les premiers pas utiles pour ceux dont la coupure d'été s'est accompagnée d'une inactivité plus large.</p>",
+    "article_titre_6": "Le matériel et la récupération qui font la différence en septembre",
+    "article_paragraphe_7": "<p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Un tableau de quatre semaines donne un cadre solide, mais il ne remplace pas un regard individualisé sur votre historique d'entraînement, vos antécédents de blessure et votre rythme de progression réel. La <strong>reprise course à pied après coupure</strong> se joue autant dans les ajustements semaine après semaine que dans le plan de départ lui-même.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Ce qu'apporte un suivi personnalisé</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Ajuster le plan selon la fatigue réelle plutôt qu'un calendrier figé permet d'éviter deux écueils : la reprise trop lente qui démotive, et la reprise trop rapide qui blesse. Un suivi structuré identifie les signaux précoces (raideur inhabituelle, essoufflement anormal, fatigue qui persiste) avant qu'ils ne deviennent une gêne installée, et adapte le niveau A, B ou C présenté plus haut à l'évolution réelle des séances, semaine par semaine.</p><h3 style=\"color:#2c3e50;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:700;margin:2rem 0 0.8rem\">Une progression fondée sur l'expérience terrain</h3><p style=\"color:#333333;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:500;line-height:1.7;margin:0 0 1.25rem\">Le protocole présenté dans cet article s'appuie sur des repères de charge d'entraînement documentés, croisés avec l'observation répétée des schémas de blessure de rentrée chez le coureur récréatif. Cette approche évite de calquer un modèle unique sur des situations pourtant très différentes : un coureur qui a maintenu une activité cardiovasculaire tout l'été n'a pas le même point de départ qu'un coureur resté totalement à l'arrêt, même si les deux se sentent également « rouillés » à la reprise.</p><div class=\"nk-callout nk-callout--cta\" style=\"background:#f9fcfc;border-left:4px solid #bfe3e3;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:2.5rem 0 1.5rem;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\"><strong style=\"color:#607272;display:block;margin-bottom:0.5rem;font-size:18px\"><span aria-hidden=\"true\">📞</span> Un plan de reprise adapté à votre profil, pas un modèle standard</strong><p style=\"margin:0 0 1rem;color:#2c3e50;font-size:16px;font-weight:500;line-height:1.6\">Chaque coupure d'été est différente selon sa durée, l'activité maintenue et les antécédents de chacun. Échangez avec nous pour construire une progression sur mesure, avec des ajustements réels semaine après semaine plutôt qu'un tableau figé.</p><div style=\"display:flex;flex-wrap:wrap;gap:.75rem\"><a href=\"\" style=\"display:inline-block;padding:12px 22px;border-radius:999px;background:#607272;color:#fff;font-weight:700;text-decoration:none\">Demander un plan personnalisé</a><a href=\"tel:\" style=\"display:inline-block;padding:12px 22px;border-radius:999px;border:2px solid #607272;color:#607272;font-weight:700;text-decoration:none\">Appeler le </a></div></div><div class=\"nk-callout nk-callout--sources\" style=\"background:#f9fcfc;border-left:4px solid #607272;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:2rem 0 0\"><strong style=\"display:block;margin-bottom:0.6rem;color:#607272;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px\">Sources citées dans cet article</strong><ul style=\"margin:0;padding-left:1.25rem\"><li style=\"color:#607272;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:14px;line-height:1.6;margin-bottom:0.35rem\"><a style=\"color:#607272;text-decoration:underline\" href=\"https://blog.therunningcollective.fr/programme-reprise-course-a-pied-plan-et-conseils/\" target=\"_blank\" rel=\"noopener nofollow\">Programme reprise course à pied : plan et conseils - Blog | The Running Collective</a></li><li style=\"color:#607272;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:14px;line-height:1.6;margin-bottom:0.35rem\"><a style=\"color:#607272;text-decoration:underline\" href=\"https://www.lepape-info.com/entrainement/entrainement-running/debuter/reprise-course-a-pied-3-semaines/\" target=\"_blank\" rel=\"noopener nofollow\">Reprendre après 3 semaines d’arrêt ! – Lepape-Info</a></li><li style=\"color:#607272;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:14px;line-height:1.6;margin-bottom:0.35rem\"><a style=\"color:#607272;text-decoration:underline\" href=\"https://toutpourmasante.fr/reprise-course-a-pied-blessure/\" target=\"_blank\" rel=\"noopener nofollow\">Plan de reprise de la course à pied après une blessure</a></li><li style=\"color:#607272;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:14px;line-height:1.6;margin-bottom:0.35rem\"><a style=\"color:#607272;text-decoration:underline\" href=\"https://www.danslateteduncoureur.fr/blog/reprise-couse-run-nouvelle-annee-bonnes-bases-eviter-erreur\" target=\"_blank\" rel=\"noopener nofollow\">Reprise : Comment Revenir Vite sans se Blesser après une Coupure ?  — Dans la Tête d'un Coureur</a></li></ul></div>",
+    "article_titre_7": "Pourquoi s'appuyer sur un accompagnement structuré plutôt qu'un plan générique",
+    "faq": [
+      {
+        "question": "Combien de temps faut-il pour retrouver son niveau après une coupure d'été ?",
+        "reponse": "Comptez en général autant de temps que la durée de la coupure, parfois un peu moins : après 4 à 6 semaines d'arrêt, la plupart des coureurs retrouvent leurs sensations en 4 à 6 semaines de pratique régulière. La capacité cardio-respiratoire revient plus vite que la tolérance des tendons et des os, qui conditionne le risque de blessure. Un arrêt prolongé peut réduire le VO2max de 6 à 20% chez des sujets très entraînés (données Garmin/Firstbeat)."
+      },
+      {
+        "question": "Peut-on reprendre directement en course continue après 3 semaines d'arrêt ?",
+        "reponse": "Après 2 à 3 semaines seulement, oui dans la plupart des cas : reprenez par 2 à 3 sorties de 20 à 30 minutes en allure conversationnelle, sans intensité, avec un jour de récupération entre chaque. Au-delà de 4 semaines d'arrêt, ou si vous avez ressenti une gêne avant la coupure, commencez par de la marche-course pour redonner progressivement de l'impact aux tendons et aux os."
+      },
+      {
+        "question": "À quelle allure reprendre la course à pied après une coupure ?",
+        "reponse": "À l'allure où vous pouvez tenir une conversation complète, soit typiquement 45 à 90 secondes au kilomètre plus lent que votre allure d'avant la coupure. C'est l'erreur la plus fréquente en septembre : le cardio récupère vite et donne l'impression que tout est redevenu facile, alors que les tissus n'ont pas encore réencaissé l'impact. L'intensité revient en semaine 4, pas avant."
+      },
+      {
+        "question": "Combien de séances par semaine pour une reprise progressive ?",
+        "reponse": "Trois séances hebdomadaires constituent le meilleur compromis entre stimulus et récupération lors d'une reprise, deux seulement en semaine 1 si la coupure a dépassé 8 semaines. Gardez au moins un jour sans impact entre deux sorties pendant les deux premières semaines et ajoutez plutôt du vélo, de la natation ou de l'elliptique si vous voulez travailler davantage sans augmenter la charge mécanique."
+      },
+      {
+        "question": "Faut-il vraiment alterner marche et course pour reprendre ?",
+        "reponse": "C'est la méthode la plus sûre après une coupure de plus d'un mois. Les fractions de marche réduisent le volume d'impact total tout en maintenant une durée d'effort motivante : par exemple 2 minutes de course pour 1 minute de marche, répété 8 à 10 fois. Vous réduisez ensuite la marche sur 2 à 3 semaines jusqu'à la course continue, sans jamais franchir un palier douloureux."
+      },
+      {
+        "question": "La règle des 10% par semaine est-elle toujours valable ?",
+        "reponse": "Elle reste un garde-fou grossier, mais elle n'a pas de fondement scientifique solide : une revue de l'Université Laval l'a remise en question en 2023. Une analyse publiée en 2025 sur plus de 588 000 séances de course montre que le meilleur prédicteur de blessure est la longueur d'une seule sortie comparée à la plus longue des 30 derniers jours, avec un risque majoré d'environ 64% pour un dépassement de 10 à 30%."
+      },
+      {
+        "question": "Ma reprise fait mal : est-ce normal ?",
+        "reponse": "Une gêne musculaire diffuse, symétrique, qui s'estompe à l'échauffement et disparaît en 24 heures est habituelle lors d'une reprise. En revanche, une douleur localisée qui revient à chaque séance, une douleur osseuse en un point précis, une douleur nocturne, une boiterie ou un gonflement ne relèvent pas d'une simple adaptation : arrêtez de courir et faites évaluer la zone par un professionnel de santé."
+      },
+      {
+        "question": "Ma coupure était due à une blessure : ce plan sur 4 semaines convient-il ?",
+        "reponse": "Non, pas tel quel. Ce plan est conçu pour une coupure volontaire sans douleur. Après une blessure, la reprise dépend du tissu concerné, du délai de cicatrisation et de critères de force et de tolérance à l'impact à tester avant de courir. Un bilan permet de définir le point de départ réel et les paliers de progression plutôt que d'appliquer un calendrier standard."
+      },
+      {
+        "question": "Faut-il changer ses chaussures de running à la rentrée ?",
+        "reponse": "Vérifiez-le plutôt que de le deviner : regardez le kilométrage total et l'état de la semelle intermédiaire, qui s'affaisse avant l'usure visible de la semelle extérieure. Un modèle très usé, ou au contraire un modèle neuf très différent du précédent, modifie la charge mécanique au moment même où vous augmentez le volume : c'est un facteur de risque cumulé typique du mois de septembre."
+      }
+    ],
+    "faq_html": "<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>Combien de temps faut-il pour retrouver son niveau après une coupure d'été ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">Comptez en général autant de temps que la durée de la coupure, parfois un peu moins : après 4 à 6 semaines d'arrêt, la plupart des coureurs retrouvent leurs sensations en 4 à 6 semaines de pratique régulière. La capacité cardio-respiratoire revient plus vite que la tolérance des tendons et des os, qui conditionne le risque de blessure. Un arrêt prolongé peut réduire le VO2max de 6 à 20% chez des sujets très entraînés (données Garmin/Firstbeat).</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>Peut-on reprendre directement en course continue après 3 semaines d'arrêt ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">Après 2 à 3 semaines seulement, oui dans la plupart des cas : reprenez par 2 à 3 sorties de 20 à 30 minutes en allure conversationnelle, sans intensité, avec un jour de récupération entre chaque. Au-delà de 4 semaines d'arrêt, ou si vous avez ressenti une gêne avant la coupure, commencez par de la marche-course pour redonner progressivement de l'impact aux tendons et aux os.</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>À quelle allure reprendre la course à pied après une coupure ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">À l'allure où vous pouvez tenir une conversation complète, soit typiquement 45 à 90 secondes au kilomètre plus lent que votre allure d'avant la coupure. C'est l'erreur la plus fréquente en septembre : le cardio récupère vite et donne l'impression que tout est redevenu facile, alors que les tissus n'ont pas encore réencaissé l'impact. L'intensité revient en semaine 4, pas avant.</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>Combien de séances par semaine pour une reprise progressive ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">Trois séances hebdomadaires constituent le meilleur compromis entre stimulus et récupération lors d'une reprise, deux seulement en semaine 1 si la coupure a dépassé 8 semaines. Gardez au moins un jour sans impact entre deux sorties pendant les deux premières semaines et ajoutez plutôt du vélo, de la natation ou de l'elliptique si vous voulez travailler davantage sans augmenter la charge mécanique.</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>Faut-il vraiment alterner marche et course pour reprendre ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">C'est la méthode la plus sûre après une coupure de plus d'un mois. Les fractions de marche réduisent le volume d'impact total tout en maintenant une durée d'effort motivante : par exemple 2 minutes de course pour 1 minute de marche, répété 8 à 10 fois. Vous réduisez ensuite la marche sur 2 à 3 semaines jusqu'à la course continue, sans jamais franchir un palier douloureux.</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>La règle des 10% par semaine est-elle toujours valable ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">Elle reste un garde-fou grossier, mais elle n'a pas de fondement scientifique solide : une revue de l'Université Laval l'a remise en question en 2023. Une analyse publiée en 2025 sur plus de 588 000 séances de course montre que le meilleur prédicteur de blessure est la longueur d'une seule sortie comparée à la plus longue des 30 derniers jours, avec un risque majoré d'environ 64% pour un dépassement de 10 à 30%.</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>Ma reprise fait mal : est-ce normal ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">Une gêne musculaire diffuse, symétrique, qui s'estompe à l'échauffement et disparaît en 24 heures est habituelle lors d'une reprise. En revanche, une douleur localisée qui revient à chaque séance, une douleur osseuse en un point précis, une douleur nocturne, une boiterie ou un gonflement ne relèvent pas d'une simple adaptation : arrêtez de courir et faites évaluer la zone par un professionnel de santé.</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>Ma coupure était due à une blessure : ce plan sur 4 semaines convient-il ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">Non, pas tel quel. Ce plan est conçu pour une coupure volontaire sans douleur. Après une blessure, la reprise dépend du tissu concerné, du délai de cicatrisation et de critères de force et de tolérance à l'impact à tester avant de courir. Un bilan permet de définir le point de départ réel et les paliers de progression plutôt que d'appliquer un calendrier standard.</div></details>\n<details class=\"nk-faq-item\" style=\"background:#ddebbb;border-radius:14px;margin-bottom:14px;overflow:hidden\"><summary style=\"display:flex;justify-content:space-between;align-items:center;gap:12px;color:#1f2124;background:#ddebbb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:400;padding:20px 24px;cursor:pointer;list-style:none\"><span>Faut-il changer ses chaussures de running à la rentrée ?</span><span class=\"nk-faq-ic\" style=\"flex:none;width:30px;height:30px;border-radius:50%;background:#607272;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:20px;line-height:1\">+</span></summary><div style=\"background:#f9fcfc;padding:18px 24px;color:#54595f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;line-height:1.7\">Vérifiez-le plutôt que de le deviner : regardez le kilométrage total et l'état de la semelle intermédiaire, qui s'affaisse avant l'usure visible de la semelle extérieure. Un modèle très usé, ou au contraire un modèle neuf très différent du précédent, modifie la charge mécanique au moment même où vous augmentez le volume : c'est un facteur de risque cumulé typique du mois de septembre.</div></details>\n<script>(function(){document.querySelectorAll(\".nk-faq-ic\").forEach(function(ic){var d=ic.closest(\"details\");if(!d||d.dataset.nkBound)return;d.dataset.nkBound=\"1\";function sync(){if(d.open){ic.textContent=\"×\";ic.style.background=\"#f9fcfc\";ic.style.color=\"#607272\";}else{ic.textContent=\"+\";ic.style.background=\"#607272\";ic.style.color=\"#fff\";}}d.addEventListener(\"toggle\",sync);sync();});})();</script>"
+  },
+  "images": [
+    {
+      "name": "hero",
+      "role": "featured",
+      "generator": "Google Nano Banana (Gemini 2.5 Flash Image)",
+      "filename": "reprise-course-a-pied-apres-coupure-septembre-og.webp",
+      "prompt": "Professional editorial photograph of a female runner in her early 30s, wearing modern athletic wear (neutral colors with subtle teal-mint accents on the watch or armband), standing at the edge of a park trail at golden hour, early morning light. She is tying her running shoes, leaning forward slightly with focused expression, mid-motion. The background shows a tree-lined path with soft bokeh, natural daylight, warm and encouraging atmosphere. Ultra HD, photorealistic, natural lighting, no studio feel. The scene captures the exact moment of 'returning to running' – preparation, determination, realistic athlete experience. Shot with 35mm equivalent lens, shallow depth of field.",
+      "negative_prompt": "text, watermark, logo, cartoon, 3D render, stock photo cliché, oversaturated colors, distorted face, extra fingers, blurry, low quality, gym interior, artificial lighting, deformed body, kitsch, generic fitness model",
+      "aspect_ratio": "16:9",
+      "alt_text": "Coureuse préparant sa reprise de course à pied en septembre après une coupure d'été, lacets de running au point de départ",
+      "title": "Reprise de la course à pied après coupure : préparation progressive",
+      "caption": "Le moment du retour : préparation mentale et physique avant la première sortie de rentrée."
+    },
+    {
+      "name": "section-1",
+      "role": "inline",
+      "generator": "Google Nano Banana (Gemini 2.5 Flash Image)",
+      "filename": "reprise-course-marche-course-semaine-1.webp",
+      "prompt": "Professional editorial photograph of a male runner in his 40s, wearing neutral athletic wear with subtle teal accent details (sports watch or compression sleeve), executing a walk-run interval on a suburban asphalt path with green grass verges. He is mid-stride in the 'running' phase of marche-course, relaxed posture, natural breathing, morning or late afternoon natural light creating soft shadows. The path shows real wear and urban reality (not pristine). Ultra HD, photorealistic, editorial style, authentic athlete moment, no fitness studio or stock imagery. Shot at eye level, 35mm equivalent, capturing the 'easy return' mentality of week 1.",
+      "negative_prompt": "text, watermark, logo, cartoon, 3D render, stock photo, oversaturated, distorted face, extra fingers, blurry, low quality, artificial studio lighting, deformed body, kitsch, generic fitness model, perfect park, too polished",
+      "aspect_ratio": "4:3",
+      "alt_text": "Coureur en phase de marche-course progressive, semaine 1 de reprise après coupure estivale",
+      "title": "Marche-course : la première semaine de reprise",
+      "caption": "Semaine 1 : alterner marche et course courte pour réadapter progressivement l'organisme."
+    },
+    {
+      "name": "section-2",
+      "role": "inline",
+      "generator": "Google Nano Banana (Gemini 2.5 Flash Image)",
+      "filename": "reprise-course-sortie-longue-semaine-3.webp",
+      "prompt": "Professional editorial photograph of a female runner in her 30s, athletic build, wearing modern running gear with subtle teal-mint accent (watch, band, or shoe detail), running confidently on a tree-lined trail or park path in natural daylight (morning or golden hour). She appears relaxed and in rhythm, mid-stride with good form, slightly elevated angle showing the path ahead and surrounding nature. The background has soft bokeh with green foliage. Ultra HD, photorealistic, editorial quality, capturing the 'confidence phase' of week 3 progression. Natural lighting, no artificial elements, authentic athlete experience. 35mm equivalent lens, shallow depth of field.",
+      "negative_prompt": "text, watermark, logo, cartoon, 3D render, stock photo cliché, oversaturated colors, distorted face, extra fingers, blurry, low quality, artificial lighting, deformed body, kitsch, generic fitness model, studio background, perfect scenery",
+      "aspect_ratio": "4:3",
+      "alt_text": "Coureuse en sortie longue de semaine 3, reprise progressive après coupure estivale, allure fondamentale",
+      "title": "Sortie longue semaine 3 : retrouver l'endurance",
+      "caption": "Semaine 3 : la sortie longue permet de retrouver l'endurance de base et la confiance."
+    }
+  ],
+  "art_direction": {
+    "style": "professional editorial photography, photorealistic, ultra HD, natural daylight, authentic moment",
+    "mood": "motivational yet realistic, encouraging without cliché, genuine athlete experience",
+    "lighting": "golden hour or bright morning natural light, soft shadows, no studio artificiality",
+    "color_palette": {
+      "primary": "natural earth tones, grays, blacks (athletic wear)",
+      "accent": "#bfe3e3 (soft teal-mint, subtle integration in details: watch, armband, or background element)",
+      "secondary": "warm skin tones, green foliage or urban concrete"
+    },
+    "composition": "authentic action or preparation moment, athlete-centric framing, real running environment (park, street, track)",
+    "camera": "eye-level or slightly elevated, 35mm equivalent, shallow depth of field for subject isolation",
+    "coherence_note": "All three images tell a progressive story: preparation → first week gentle return → confidence building. No stock photography feel. Each image shows real effort, real setting, real athlete experience."
+  },
+  "articles_connexes": [
+    {
+      "titre": "reprendre sport apres arret",
+      "url": "https://willrun.fr/blog/reprendre-sport-apres-arret/"
+    },
+    {
+      "titre": "plan 7 jours sedentaire",
+      "url": "https://willrun.fr/blog/plan-7-jours-sedentaire/"
+    }
+  ],
+  "google_ads": {
+    "headlines": [
+      "Reprise Course A Pied",
+      "Reprendre Apres Coupure",
+      "Plan Reprise 4 Semaines",
+      "Reprise Apres L'Ete",
+      "Marche-Course Progressive",
+      "Programme Reprise Running",
+      "Reprise Course A Pied Sept",
+      "Retrouver Son Niveau Running",
+      "Allure Conversationnelle",
+      "Reprise Sans Blessure",
+      "Will'Run Reprise Course",
+      "Plan Progressif Sur Mesure",
+      "Reprendre Apres Vacances",
+      "Coach Reprise Course",
+      "Reprise En Toute Securite"
+    ],
+    "descriptions": [
+      "Plan 4 semaines pour reprendre la course apres coupure d'ete. Progressif et securise.",
+      "Marche-course, allure conversationnelle, sortie longue : le protocole complet Will'Run.",
+      "Reprenez la course a pied sans vous blesser. Methode structuree semaine par semaine.",
+      "Coupure de 3 a 8 semaines ? Suivez un plan de reprise adapte a votre niveau."
+    ],
+    "sitelinks": [
+      {
+        "texte": "Plan 4 semaines",
+        "description1": "Semaine 1 a 4 detaillees",
+        "description2": "Marche-course puis intensite"
+      },
+      {
+        "texte": "Reprise apres coupure",
+        "description1": "Adapte a votre arret",
+        "description2": "Conseils securite inclus"
+      },
+      {
+        "texte": "Allure conversationnelle",
+        "description1": "Comprendre l'allure adaptee",
+        "description2": "Eviter le surmenage"
+      },
+      {
+        "texte": "Erreurs a eviter",
+        "description1": "Ne pas rallonger trop vite",
+        "description2": "Signes d'alerte a surveiller"
+      }
+    ],
+    "callouts": [
+      "Plan sur 4 semaines",
+      "Progressif et securise",
+      "Marche-course incluse",
+      "Adapte a la coupure",
+      "Sortie longue guidee",
+      "Prevention des douleurs"
+    ],
+    "mots_cles_exacts": [
+      "[reprise course a pied apres coupure]",
+      "[reprise course à pied après coupure]",
+      "[programme de reprise course à pied]",
+      "[plan de reprise course à pied 4 semaines]",
+      "[reprendre la course à pied après les vacances]",
+      "[comment reprendre la course à pied]",
+      "[reprise course à pied septembre]"
+    ],
+    "mots_cles_expression": [
+      "reprise course à pied après coupure",
+      "programme de reprise course à pied",
+      "plan de reprise course à pied 4 semaines",
+      "reprendre la course à pied après les vacances",
+      "reprise course à pied après 3 semaines d'arrêt",
+      "reprise course à pied après 2 mois d'arrêt",
+      "à quelle allure reprendre la course à pied",
+      "alterner marche et course reprise",
+      "erreurs reprise course à pied",
+      "reprise course à pied septembre"
+    ],
+    "mots_cles_negatifs": [
+      "-emploi",
+      "-recrutement",
+      "-pdf",
+      "-gratuit",
+      "-chaussures",
+      "-magasin",
+      "-marathon",
+      "-trail",
+      "-tapis de course",
+      "-machine",
+      "-salaire",
+      "-formation coach"
+    ],
+    "piste_budget_note": "CPC probablement modere sur ce segment informationnel-actionnable ; concurrence principalement issue de sites editoriaux (SEO) plutot que d'annonceurs Search agressifs, ce qui laisse une opportunite d'occuper la position payante sans surenchere forte, surtout en periode saisonniere de rentree (septembre).",
+    "analyse_annonces_concurrentes": [],
+    "angle_differenciant_recommande": "Aucune annonce concurrente reelle n'a ete observee sur cette requete (SERP payante peu ou pas occupee), l'opportunite est donc de se positionner comme LA reference structurée et methodique sur ce sujet de niche saisonniere : mettre en avant le protocole precis et gradue sur 4 semaines (marche-course puis course continue puis sortie longue puis intensite), la logique physiologique (le cardio revient plus vite que les tendons/os) et les criteres de securite concrets (douleur nulle ou revenue a la normale sous 24h), plutot qu'un discours generique de coaching sportif que proposeraient des concurrents non specialises sur la reprise post-coupure."
+  }
+}

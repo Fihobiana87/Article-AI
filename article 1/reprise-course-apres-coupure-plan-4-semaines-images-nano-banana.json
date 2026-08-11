@@ -1,0 +1,38 @@
+[
+  {
+    "name": "hero",
+    "role": "featured",
+    "generator": "Google Nano Banana (Gemini 2.5 Flash Image)",
+    "filename": "reprise-course-a-pied-apres-coupure-septembre-og.webp",
+    "prompt": "Professional editorial photograph of a female runner in her early 30s, wearing modern athletic wear (neutral colors with subtle teal-mint accents on the watch or armband), standing at the edge of a park trail at golden hour, early morning light. She is tying her running shoes, leaning forward slightly with focused expression, mid-motion. The background shows a tree-lined path with soft bokeh, natural daylight, warm and encouraging atmosphere. Ultra HD, photorealistic, natural lighting, no studio feel. The scene captures the exact moment of 'returning to running' – preparation, determination, realistic athlete experience. Shot with 35mm equivalent lens, shallow depth of field.",
+    "negative_prompt": "text, watermark, logo, cartoon, 3D render, stock photo cliché, oversaturated colors, distorted face, extra fingers, blurry, low quality, gym interior, artificial lighting, deformed body, kitsch, generic fitness model",
+    "aspect_ratio": "16:9",
+    "alt_text": "Coureuse préparant sa reprise de course à pied en septembre après une coupure d'été, lacets de running au point de départ",
+    "title": "Reprise de la course à pied après coupure : préparation progressive",
+    "caption": "Le moment du retour : préparation mentale et physique avant la première sortie de rentrée."
+  },
+  {
+    "name": "section-1",
+    "role": "inline",
+    "generator": "Google Nano Banana (Gemini 2.5 Flash Image)",
+    "filename": "reprise-course-marche-course-semaine-1.webp",
+    "prompt": "Professional editorial photograph of a male runner in his 40s, wearing neutral athletic wear with subtle teal accent details (sports watch or compression sleeve), executing a walk-run interval on a suburban asphalt path with green grass verges. He is mid-stride in the 'running' phase of marche-course, relaxed posture, natural breathing, morning or late afternoon natural light creating soft shadows. The path shows real wear and urban reality (not pristine). Ultra HD, photorealistic, editorial style, authentic athlete moment, no fitness studio or stock imagery. Shot at eye level, 35mm equivalent, capturing the 'easy return' mentality of week 1.",
+    "negative_prompt": "text, watermark, logo, cartoon, 3D render, stock photo, oversaturated, distorted face, extra fingers, blurry, low quality, artificial studio lighting, deformed body, kitsch, generic fitness model, perfect park, too polished",
+    "aspect_ratio": "4:3",
+    "alt_text": "Coureur en phase de marche-course progressive, semaine 1 de reprise après coupure estivale",
+    "title": "Marche-course : la première semaine de reprise",
+    "caption": "Semaine 1 : alterner marche et course courte pour réadapter progressivement l'organisme."
+  },
+  {
+    "name": "section-2",
+    "role": "inline",
+    "generator": "Google Nano Banana (Gemini 2.5 Flash Image)",
+    "filename": "reprise-course-sortie-longue-semaine-3.webp",
+    "prompt": "Professional editorial photograph of a female runner in her 30s, athletic build, wearing modern running gear with subtle teal-mint accent (watch, band, or shoe detail), running confidently on a tree-lined trail or park path in natural daylight (morning or golden hour). She appears relaxed and in rhythm, mid-stride with good form, slightly elevated angle showing the path ahead and surrounding nature. The background has soft bokeh with green foliage. Ultra HD, photorealistic, editorial quality, capturing the 'confidence phase' of week 3 progression. Natural lighting, no artificial elements, authentic athlete experience. 35mm equivalent lens, shallow depth of field.",
+    "negative_prompt": "text, watermark, logo, cartoon, 3D render, stock photo cliché, oversaturated colors, distorted face, extra fingers, blurry, low quality, artificial lighting, deformed body, kitsch, generic fitness model, studio background, perfect scenery",
+    "aspect_ratio": "4:3",
+    "alt_text": "Coureuse en sortie longue de semaine 3, reprise progressive après coupure estivale, allure fondamentale",
+    "title": "Sortie longue semaine 3 : retrouver l'endurance",
+    "caption": "Semaine 3 : la sortie longue permet de retrouver l'endurance de base et la confiance."
+  }
+]
